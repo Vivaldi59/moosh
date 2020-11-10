@@ -82,14 +82,14 @@
       "type": "package",
       "package": {
         "version": "dev-master",
-        "name": "jamiepratt/moodle-qtype_TEMPLATE",
+        "name": "jamiepratt/moodle-qtype_template",
         "source": {
-          "url": "https://github.com/jamiepratt/moodle-qtype_TEMPLATE",
+          "url": "https://github.com/jamiepratt/moodle-qtype_template",
           "type": "git",
           "reference": "master"
         },
         "dist": {
-          "url": "https://github.com/jamiepratt/moodle-qtype_TEMPLATE/archive/master.zip",
+          "url": "https://github.com/jamiepratt/moodle-qtype_template/archive/master.zip",
           "type": "zip"
         }
       }
